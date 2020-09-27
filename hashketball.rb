@@ -1,6 +1,6 @@
 require "pry"
 # Write your code here!
- {:home
+ {:away 
      {
   
       [],
