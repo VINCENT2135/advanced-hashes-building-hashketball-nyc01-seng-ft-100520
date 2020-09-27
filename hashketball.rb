@@ -1,6 +1,7 @@
 require "pry"
 # Write your code here!
- away:{
+ away:{team: "Charlotte Hornets"
+ 
      {
   
       [],
