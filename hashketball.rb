@@ -1,5 +1,5 @@
 
-game_hash  
+game_hash = {}
 
 game_hash = {
  :home_team => {
