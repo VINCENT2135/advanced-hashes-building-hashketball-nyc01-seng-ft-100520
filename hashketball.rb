@@ -1,4 +1,4 @@
-require pry 
+require "pry"
 # Write your code here!
  {:home
      {
